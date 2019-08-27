@@ -1,1 +1,1 @@
-"# Vue-Node-Server---LightVersion" 
+"# Webpack + Vue + Node --- Тестовый пример взаимодействия сервера и фронта" 
