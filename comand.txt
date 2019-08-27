@@ -1,0 +1,16 @@
+﻿npm install -g vue-cli
+vue init webpack vue-test
+
+npm install express
+node index.js - запуск сервера node
+
+
+npm install webpack --save-dev
+
+npm run build
+npm run watch
+
+При npm start отрабатывает скрипт записанный в package.json
+ "start": "assets\\js\\index.html",
+
+
